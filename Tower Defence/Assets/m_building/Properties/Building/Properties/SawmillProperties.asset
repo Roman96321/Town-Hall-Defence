@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a80baa63f2f786243aaf062b19466848, type: 3}
+  m_Name: SawmillProperties
+  m_EditorClassIdentifier: 
+  health: 6400000096000000c8000000fa000000
+  productionGold: 00000000000000000000000000000000
+  productionTree: 0c00000013000000190000001f000000
+  productionEat: 00000000000000000000000000000000

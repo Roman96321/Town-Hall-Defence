@@ -1,0 +1,107 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ActiveStarButton">
+			<method name="TouchButton"/>
+		</type>
+		<type fullname="BuildingSaveAndLoad">
+			<method name="Save"/>
+		</type>
+		<type fullname="ChangeLanguage">
+			<method name="Change"/>
+			<method name="Change"/>
+		</type>
+		<type fullname="ChangeQuality">
+			<method name="Change"/>
+			<method name="Change"/>
+		</type>
+		<type fullname="CircleActive">
+			<method name="TouchButton"/>
+		</type>
+		<type fullname="DontUpBuildingButton">
+			<method name="TouchButton"/>
+		</type>
+		<type fullname="ExitGame">
+			<method name="Quit"/>
+		</type>
+		<type fullname="ExitUpgradeWindow">
+			<method name="Exit"/>
+			<method name="Exit"/>
+		</type>
+		<type fullname="GetBarracks">
+			<method name="SetBarracksSoldierType"/>
+			<method name="SetBarracksSoldierType"/>
+		</type>
+		<type fullname="GetSoldier">
+			<method name="TouchButton"/>
+		</type>
+		<type fullname="LoadNextScene">
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+			<method name="NextScene"/>
+		</type>
+		<type fullname="NewGame">
+			<method name="DeleteData"/>
+		</type>
+		<type fullname="Pause">
+			<method name="PauseGame"/>
+			<method name="ResumedGame"/>
+			<method name="ResumedGame"/>
+			<method name="ResumedGame"/>
+		</type>
+		<type fullname="PlayerAttack">
+			<method name="Attack"/>
+		</type>
+		<type fullname="PlayerStateMove">
+			<method name="TrueMove"/>
+			<method name="TrueMove"/>
+		</type>
+		<type fullname="ResourceSaveAndLoader">
+			<method name="Save"/>
+		</type>
+		<type fullname="SaveAndLoadNowWave">
+			<method name="Save"/>
+		</type>
+		<type fullname="StateButton">
+			<method name="TouchButton"/>
+		</type>
+		<type fullname="UpgradeButton">
+			<method name="UpgradeBuilding"/>
+		</type>
+		<type fullname="VictoryPanel">
+			<method name="Disable"/>
+		</type>
+		<type fullname="VolumeButton">
+			<method name="Clic"/>
+		</type>
+		<type fullname="WaveStateHandler">
+			<method name="WaweIsTrue"/>
+		</type>
+	</assembly>
+	<assembly fullname="UnityEngine.CoreModule" ignoreIfMissing="1">
+		<type fullname="UnityEngine.GameObject">
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+			<method name="SetActive"/>
+		</type>
+	</assembly>
+</linker>

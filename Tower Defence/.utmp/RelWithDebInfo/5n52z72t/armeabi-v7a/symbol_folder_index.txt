@@ -1,0 +1,1 @@
+D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\5n52z72t\obj\armeabi-v7a

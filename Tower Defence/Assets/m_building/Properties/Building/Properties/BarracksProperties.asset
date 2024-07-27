@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98ecc0f48db8f834fbee8f931727269d, type: 3}
+  m_Name: BarracksProperties
+  m_EditorClassIdentifier: 
+  health: 6400000096000000c8000000fa000000
+  productionGold: 00000000000000000000000000000000
+  productionTree: 00000000000000000000000000000000
+  productionEat: 00000000000000000000000000000000
+  soldierCount: 02000000040000000500000005000000
+  archer: {fileID: 1314248775160595669, guid: 582ec9edc4820c848b6af1f055e104b2, type: 3}
+  knight: {fileID: 9131556601730971519, guid: 2fc4d23b6c96f274c97f0cf4b2e8b4f3, type: 3}

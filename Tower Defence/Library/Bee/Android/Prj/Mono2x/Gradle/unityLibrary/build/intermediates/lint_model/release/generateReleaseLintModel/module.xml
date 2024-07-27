@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary"
+    name=":unityLibrary"
+    type="LIBRARY"
+    maven="Gradle:unityLibrary:"
+    agpVersion="8.3.0"
+    buildFolder="build"
+    bootClassPath="D:\Unity 3d\6000.0.11f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\platforms\android-34\android.jar;D:\Unity 3d\6000.0.11f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\build-tools\34.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

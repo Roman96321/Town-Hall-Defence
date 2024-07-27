@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18e8ce9962d9d83489b6e37cb0bc0549, type: 3}
+  m_Name: Wave 5
+  m_EditorClassIdentifier: 
+  stage:
+    enemyCount: 040000000100000000000000
+    spawnPoints:
+    - point: 1
+      archerCount: 1
+      knightCount: 3
+      giantCount: 0
+      infiltratorCount: 0
+      timeToNextSpawn: 0
+    - point: 2
+      archerCount: 1
+      knightCount: 0
+      giantCount: 0
+      infiltratorCount: 0
+      timeToNextSpawn: 0

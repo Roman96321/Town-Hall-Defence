@@ -1,0 +1,14 @@
+com.DefaultCompany.TowerDefence:style/UnityThemeSelector = 0x7f050001
+com.DefaultCompany.TowerDefence:style/BaseUnityTheme = 0x7f050000
+com.DefaultCompany.TowerDefence:string/FreeformWindowSize_tablet = 0x7f040004
+com.DefaultCompany.TowerDefence:style/UnityThemeSelector.Translucent = 0x7f050002
+com.DefaultCompany.TowerDefence:string/app_name = 0x7f040005
+com.DefaultCompany.TowerDefence:mipmap/app_icon_round = 0x7f030001
+com.DefaultCompany.TowerDefence:string/FreeformWindowSize_phone = 0x7f040003
+com.DefaultCompany.TowerDefence:id/unitySurfaceView = 0x7f020000
+com.DefaultCompany.TowerDefence:mipmap/app_icon = 0x7f030000
+com.DefaultCompany.TowerDefence:string/FreeformWindowOrientation_landscape = 0x7f040000
+com.DefaultCompany.TowerDefence:string/game_view_content_description = 0x7f040006
+com.DefaultCompany.TowerDefence:string/FreeformWindowSize_maximize = 0x7f040002
+com.DefaultCompany.TowerDefence:string/FreeformWindowOrientation_portrait = 0x7f040001
+com.DefaultCompany.TowerDefence:color/staticSplashScreenBackgroundColor = 0x7f010000

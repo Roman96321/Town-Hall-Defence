@@ -1,0 +1,8 @@
+com.DefaultCompany.TowerDefence.launcher-pngs-0 D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\pngs\release
+com.DefaultCompany.TowerDefence.launcher-resValues-1 D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\generated\res\resValues\release
+com.DefaultCompany.TowerDefence.launcher-packageReleaseResources-2 D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.DefaultCompany.TowerDefence.launcher-packageReleaseResources-3 D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.DefaultCompany.TowerDefence.launcher-release-4 D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\build\intermediates\merged_res\release\mergeReleaseResources
+com.DefaultCompany.TowerDefence.launcher-main-5 D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\main\res
+com.DefaultCompany.TowerDefence.launcher-release-6 D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\launcher\src\release\res
+com.DefaultCompany.TowerDefence.launcher-release-7 D:\GitHub\TowerDefenseGame\Tower Defence\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\intermediates\packaged_res\release\packageReleaseResources

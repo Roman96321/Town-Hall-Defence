@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.DefaultCompany.TowerDefence.launcher-mergeReleaseResources-2:/values-v28/values-v28.xml",
+            "map": [
+                {
+                    "source": "D:\\GitHub\\TowerDefenseGame\\Tower Defence\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\packageReleaseResources\\values-v28\\values-v28.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "231"
+                    }
+                }
+            ]
+        }
+    ]
+}

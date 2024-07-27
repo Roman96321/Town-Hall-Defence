@@ -1,0 +1,7 @@
+#Sat Jul 27 11:47:36 EEST 2024
+base.1=D\:\\GitHub\\TowerDefenseGame\\Tower Defence\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\global_synthetics_dex\\release\\mergeReleaseGlobalSynthetics\\classes.dex
+path.1=classes.dex
+base.0=D\:\\GitHub\\TowerDefenseGame\\Tower Defence\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
